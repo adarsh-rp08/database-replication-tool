@@ -56,6 +56,31 @@ Tracks user activities and replication operations.
 pip install -r requirements.txt
 python app.py
 ```
+## Screenshots
+
+### Login Page
+
+![Login](screenshots/login.png)
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Replication Tool
+
+![Replication](screenshots/replication.png)
+
+### Database Explorer
+
+![Explorer](screenshots/databaseexplorer.png)
+
+### Sync History
+
+![Sync History](screenshots/sync_history.png)
+
+### Audit Logs
+
+![Logs](screenshots/log.png)
 
 ## Default Credentials
 
